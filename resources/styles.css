@@ -1,14 +1,6 @@
-div.padding-left {
-    padding-left: 100px;
-    
+ div.main {
+    padding: 10px;
+    background-color: black;
   }
   
-  div.main {
-    margin: 0 auto;
-    padding: 20px;
-    background-color: gray;
-  }
-  
-  div.content-flow {
-    padding-top: 100px;
-  }
+ 
